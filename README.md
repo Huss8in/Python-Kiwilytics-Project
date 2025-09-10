@@ -1,7 +1,7 @@
 # Python-Kiwilytics-Project
 
 ## Overview
-This repository contains a Python script and Jupyter Notebook for **analyzing customer orders and product sales**. The workflow demonstrates reading data, performing exploratory data analysis (EDA), answering business questions, creating visualizations, and summarizing insights.
+This repository contains a Jupyter Notebook for **analyzing customer orders and product sales**. The workflow demonstrates reading data, performing exploratory data analysis (EDA), answering business questions, creating visualizations, and summarizing insights.
 
 ## Project Workflow
 1. **Load Dataset:** Read the CSV file and inspect its structure.  
